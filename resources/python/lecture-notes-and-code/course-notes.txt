@@ -1,0 +1,42 @@
+Python Libraries:https://docs.google.com/document/d/16KtDD6qu3pR-f2_jEcRVontHcLbn6htxWmp5yCbexxw/edit?tab=t.0
+
+Day1:
+"""
+questions on weather Data sets
+
+How To Analyze DataFrames---->???
+
+*head()
+*shape
+*index
+*columns
+*dtypes
+*unique()
+*nunique()
+*count
+*value_counts
+*info()
+
+
+#questions
+
+#1.Find all the unique "wind speed" values in the data
+#2.Find the number of times when the "weather is exactly clear"
+#Q3.Find the number of times when the "wind speed was exactly 4 km/hr"
+#4.Find out all the Null Values in the data
+#5.Rename the column name "weather" of the dataframe to "weather condition"
+#6.what is the mean "visibility"
+#7.what is the standard Deviation of "Pressure" in this data??
+#8.what is the Variance of "Relative Humidity" in this data-->??
+#9.find all instance when "snow" was recorded.
+#10.Find all instance when "wind Speed is above 24" and " visibility is 25"
+#11.what is the mean value of each column against each "weather Condition"
+#12.what is the minimum and maximum value of each column against each "weather condition"??
+#13.show all the records where weather condition is Fog
+#14.Find all instance when "weather is clear" or "visibility is above 40"
+#15.find all instance when:
+  a)"weather is clear" and "Relative Humidity is greater than 50"
+  b)"visibility is above 40"
+
+"""
+
